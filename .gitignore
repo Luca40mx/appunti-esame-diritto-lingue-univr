@@ -1,0 +1,9 @@
+# Repository pubblico: si pubblicano solo le dispense e il ripasso
+/*
+!/.gitignore
+!/README.md
+!/01_dispense/
+!/02_ripasso/
+
+# file temporanei di Word aperto
+~$*
